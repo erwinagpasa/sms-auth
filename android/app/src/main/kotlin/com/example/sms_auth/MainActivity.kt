@@ -1,4 +1,4 @@
-package com.example.sms_auth
+package com.erwinagpasa.sms_auth
 
 import io.flutter.embedding.android.FlutterActivity
 

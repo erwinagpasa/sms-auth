@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286849862015-alvsj5j0pbs80d3aa0lfa5rocjfjjfr0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286849862015-alvsj5j0pbs80d3aa0lfa5rocjfjjfr0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>286849862015-u0t5duvgndi2tavgpoc7u2g6daae0s9h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1uEwIpZuQYF7vbwEnX2QD3ohs8CiFERM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286849862015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.erwinagpasa.smsAuth</string>
+	<key>PROJECT_ID</key>
+	<string>sms-authentication-7b8ab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sms-authentication-7b8ab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286849862015:ios:51122f0d68a9caf23eb24a</string>
+	<key>DATABASE_URL</key>
+	<string>https://sms-authentication-7b8ab.firebaseio.com</string>
+</dict>
+</plist>
