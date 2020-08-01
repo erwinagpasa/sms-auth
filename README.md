@@ -12,3 +12,10 @@ service cloud.firestore {
   }
 }
 ```
+
+
+dependencies: 
+
+  cloud_firestore: ^0.13.7
+
+  firebase_auth: ^0.16.1
