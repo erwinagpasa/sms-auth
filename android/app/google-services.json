@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286849862015",
+    "firebase_url": "https://sms-authentication-7b8ab.firebaseio.com",
+    "project_id": "sms-authentication-7b8ab",
+    "storage_bucket": "sms-authentication-7b8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286849862015:android:e0e05f8a6bf81db43eb24a",
+        "android_client_info": {
+          "package_name": "com.erwinagpasa.sms_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286849862015-u0t5duvgndi2tavgpoc7u2g6daae0s9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erwinagpasa.sms_auth",
+            "certificate_hash": "95bffec032fc5246643480fae2bcc48791061643"
+          }
+        },
+        {
+          "client_id": "286849862015-oepk89bo796a3p9eaa806ovml7ptpa1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZO_rc4lnQmDTiTz2WrAOiJnD1o1dW10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286849862015-oepk89bo796a3p9eaa806ovml7ptpa1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
